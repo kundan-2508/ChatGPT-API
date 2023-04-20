@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P9rXtCs4mdD91uqDaAR7ZZq985nGmUL65ntLGC0/cA0=",
+  "Source": "ChatGPTApi",
+  "BasePath": "_content/ChatGPTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
